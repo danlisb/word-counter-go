@@ -268,7 +268,7 @@ escalaria melhor com arquivos significativamente maiores.
 
 ## Perguntas finais
 
-- **Ferramenta de IA e ambiente.** Claude (Claude Code / modelo Opus 4.x) como
+- **Ferramenta de IA e ambiente.** Claude (Claude Code / modelo Opus 4.8) como
   apoio. Ambiente: macOS, Go 1.26.2, CPU Intel i7-4770HQ (4 núcleos/8 threads).
 - **Estratégia concorrente escolhida.** Pool de workers com divisão do texto em
   blocos, mapas locais por worker e redução final.
