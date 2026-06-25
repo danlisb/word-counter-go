@@ -1,0 +1,10 @@
+# Configuração local do Claude Code
+.claude/
+
+# Binário compilado
+/wordcount
+
+# Artefatos de build/test do Go
+*.exe
+*.test
+*.out
